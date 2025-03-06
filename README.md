@@ -1,6 +1,8 @@
 This is my personal page but most of my research code is released on the Bayesian and Neural Systems [group GitHub](https://github.com/BayesWatch).
 
-I am a third (and final) year PhD student at the University of Edinburgh, supervised by Professor [Michael O’Boyle](http://www.dcs.ed.ac.uk/home/mob/) and Lecturer (Asst. Prof.) [Elliot J. Crowley](https://elliotjcrowley.github.io). I'm in the fourth year of the [Pervasive Parallelism](https://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism) CDT programme.
+I'm a software engineer at Qualcomm R&D, where I work on compilers and machine learning.
+
+Before joining Qualcomm, I did my PhD at the University of Edinburgh, supervised by Professor [Michael O’Boyle](http://www.dcs.ed.ac.uk/home/mob/) and Lecturer (Asst. Prof.) [Elliot J. Crowley](https://elliotjcrowley.github.io). 
 
 My research interests include (but are not limited to!):
 
